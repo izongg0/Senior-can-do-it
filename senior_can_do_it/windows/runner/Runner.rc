@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "senior_can_do_it" "\0"
+            VALUE "FileDescription", "forever_young_2" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "senior_can_do_it" "\0"
+            VALUE "InternalName", "forever_young_2" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "senior_can_do_it.exe" "\0"
-            VALUE "ProductName", "senior_can_do_it" "\0"
+            VALUE "OriginalFilename", "forever_young_2.exe" "\0"
+            VALUE "ProductName", "forever_young_2" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

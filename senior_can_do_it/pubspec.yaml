@@ -1,4 +1,4 @@
-name: senior_can_do_it
+name: forever_young_2
 description: A new Flutter project.
 publish_to: 'none'
 version: 0.1.0
@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_svg: ^1.0.1
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +18,14 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/bankname/
+    - assets/busanmain/
+    - assets/themename/
+    - assets/themeselect/
+    - assets/success/
+    - assets/
+    - assets/fourth/
+
+
+
